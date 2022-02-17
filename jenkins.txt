@@ -1,1 +1,3 @@
 creating the  file for checking jenkins setup
+SCM
+pull the code

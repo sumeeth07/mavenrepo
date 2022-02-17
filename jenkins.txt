@@ -1,3 +1,5 @@
 creating the  file for checking jenkins setup
 SCM
 pull the code
+added maven package
+maven is the build tool

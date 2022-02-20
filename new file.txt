@@ -1,2 +1,4 @@
 hello world
 welcome to jenkins
+testing jenkins
+poll scm
